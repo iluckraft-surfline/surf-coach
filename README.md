@@ -1,1 +1,1 @@
-# surf-coach
+# Surf Coach
