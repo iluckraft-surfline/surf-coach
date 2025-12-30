@@ -1,0 +1,16 @@
+{
+  "name": "surf-coach",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Surf coaching app that analyzes video footage",
+  "scripts": {
+    "dev:web": "pnpm --filter web dev",
+    "dev:api": "pnpm --filter api dev",
+    "build:web": "pnpm --filter web build",
+    "build:api": "pnpm --filter api build"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
+
